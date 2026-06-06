@@ -57,6 +57,8 @@ int main()
 ```
 ## OUTPUT:
 
+<img width="534" height="242" alt="image" src="https://github.com/user-attachments/assets/2f6ac592-3e46-489e-8f99-f13aad2e5b85" />
+
 
 ## RESULT :
  Thus the implementation of ceasar cipher had been executed successfully.
